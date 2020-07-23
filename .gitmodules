@@ -1,0 +1,6 @@
+[submodule "simulator/MMC80"]
+	path = simulator/MMC80
+	url = https://github.com/been-jamming/MMC80
+[submodule "simulator/src/Z80"]
+	path = simulator/src/Z80
+	url = https://github.com/redcode/Z80
