@@ -4,3 +4,6 @@
 [submodule "simulator/src/Z80"]
 	path = simulator/src/Z80
 	url = https://github.com/redcode/Z80
+[submodule "schematic/"]
+	path = schematic/
+	url = https://github.com/rommac100/mmc80_schematic
