@@ -8,3 +8,6 @@
 [submodule "schematics"]
 	path = schematics
 	url = https://github.com/rommac100/mmc80_schematic
+[submodule "io_utilities/io_expansion_arduino"]
+	path = io_utilities/io_expansion_arduino
+	url = https://github.com/rommac100/io_expansion_z80.git
